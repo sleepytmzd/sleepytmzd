@@ -126,17 +126,17 @@
   
           
           
-</p>
+</p> 
 
 ## GitHub Stats
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sleepytmzd&show_icons=true&theme=algolia" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleepytmzd&layout=donut&theme=algolia" alt="Top languages" />
+  <img height="160" src="https://github-readme-stats-asif.vercel.app/api?username=sleepytmzd&show_icons=true&theme=algolia" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats-asif.vercel.app/api/top-langs/?username=sleepytmzd&layout=donut&theme=algolia" alt="Top languages" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/sleepytmzd/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sleepytmzd&theme=algolia" alt="GitHub Trophies" />
+  <a href="https://github-profile-trophy-sleepytmzd.vercel.app/?username=sleepytmzd&theme=algolia">
+    <img src="https://github-profile-trophy-sleepytmzd.vercel.app/?username=sleepytmzd&theme=algolia" alt="GitHub Trophies" />
   </a>
 </div>
 
