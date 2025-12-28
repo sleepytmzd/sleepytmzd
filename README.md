@@ -113,6 +113,7 @@
   <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg"  /> &nbsp;
   <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/logstash/logstash-original.svg" /> &nbsp;
   <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" /> &nbsp;
+  <img height="36" src="https://img.icons8.com/fluency/48/key-cloak.png" alt="key-cloak"/> &nbsp;
   <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka"/> &nbsp;
   <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" alt="gRPC"/> &nbsp;
   <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code"/> &nbsp;
